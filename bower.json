@@ -1,0 +1,22 @@
+{
+  "name": "ng-layout",
+  "main": "ng-layout.js",
+  "version": "0.0.0",
+  "authors": [
+    "Dmitri Akatov <akatov@gmail.com>"
+  ],
+  "description": "simple reusable layouts",
+  "keywords": [
+    "layout"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "devDependencies": {
+    "angular": "~1.2.0"
+  }
+}
