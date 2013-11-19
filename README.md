@@ -1,4 +1,7 @@
 # Angular layout directive
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/akatov/ng-layout/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+## Usage
 
 layout.html
 ```html
